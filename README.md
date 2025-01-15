@@ -7,7 +7,7 @@
 
 
 <div>
-  <img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f9d1-1f3fb-1f4bb_color.png" height="35" margin-top:5px> <span>O que atualmente faço ? </span>
+  <img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f9d1-1f3fb-1f4bb_color.png" height="35"> <span>O que atualmente faço ? </span>  <img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f9d1-1f3fb-1f4bb_color.png" height="35">
 </div>
 
 <h4>Atualmente sou desenvolvedor FullStack em busca de oportunidades de Estágio/Júnior para crescer na área. Tenho experiência
