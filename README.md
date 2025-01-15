@@ -64,7 +64,14 @@ soluções eficientes e de alto impacto.</h4>
 
 ###
 
+<br>
 
+🧑🏻‍💻 Interesses futuros: 🧑🏻‍💻
+
+- Tenho interesse em aprender progressivamentes novas técnicas, frameworks, bibliotecas...
+- Desenvolver projetos
+- Entender o processo de IA`s, machine learning...
+- Buscar técnicas para implementaçao de API's RestFULL e CRUD...
 
 
 
