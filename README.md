@@ -1,8 +1,14 @@
 ## 👋  Salve 👋
 
-<h2 align="left">👋 ! Salve rapaziadada ! Sou o tal do Paulo Cardoso e carioca (RJ) 👋 </h2>
+<h2 align="left">🏖️ ! Salve rapaziadada ! Sou o tal do Paulo Cardoso e carioca (RJ) 🏖️ </h2>
 
 ###
+
+<h4>Atualmente sou desenvolvedor FullStack em busca de oportunidades de Estágio/Júnior para crescer na área. Tenho experiência
+na criação de protótipos de projetos inovadores, sempre com atenção ao desempenho e escalabilidade. Sou
+colaborativo, gosto de trabalhar em equipes multifuncionais e estou constantemente em busca de me atualizar
+com as melhores práticas do setor. Com essa mentalidade, procuro aplicar meu aprendizado para desenvolver
+soluções eficientes e de alto impacto.</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
