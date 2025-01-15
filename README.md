@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋  Salve 👋
 
-<h2 align="left">Hi 👋! Salve rapaziadada ! Sou o tal do Paulo Cardoso e carioca (RJ)</h2>
+<h2 align="left">Hi 👋! Salve rapaziadada ! Sou o tal do Paulo Cardoso e carioca (RJ)</h2> 👋
 
 ###
 
