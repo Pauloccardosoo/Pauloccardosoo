@@ -11,7 +11,7 @@ com as melhores práticas do setor. Com essa mentalidade, procuro aplicar meu ap
 soluções eficientes e de alto impacto.</h4>
 
 <div>
-  <img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f9d1-1f3fb-1f4bb_color.png" height="35"> <span> <p>O que atualmente faço ?</p></span>
+  <img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f9d1-1f3fb-1f4bb_color.png" height="35"> <span>O que atualmente faço ? </span>
 </div>
 
 <div align="center">
