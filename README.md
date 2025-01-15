@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="30" alt="Node logo"  />
+  <img src="https://ih1.redbubble.net/image.4080393304.5605/st,small,507x507-pad,600x600,f8f8f8.jpg" height="30" alt="Node logo"  />
   <img width="12" />
 </div>
 
