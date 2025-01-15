@@ -4,7 +4,7 @@
 
 ###
 
-<br> <br>
+
 
 <div>
   <img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/512px/1f9d1-1f3fb-1f4bb_color.png" height="35"> <span>O que atualmente faço ? </span>
