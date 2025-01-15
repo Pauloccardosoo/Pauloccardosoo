@@ -25,7 +25,7 @@ soluções eficientes e de alto impacto.</h4>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2MyZGUxaXg5MXJraXVucGtxczZwcWhoYTJpdmU5ZmZwdXJqcjkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
 
 ###
 
@@ -56,8 +56,7 @@ soluções eficientes e de alto impacto.</h4>
       <a href="https://www.twitch.tv/peagha21">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
         <a/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="https://gmail.com/pauloccardosoo4@gmail.com"  />
+ 
   
 <a href="https://www.linkedin.com/in/paulo-cardoso-365403224/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
